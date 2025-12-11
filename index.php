@@ -12,7 +12,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     
       <div class="container">
-        <a class="navbar-brand" href="./index.html">Alpha Electronics</a>
+        <a class="navbar-brand" href="./index.php">Alpha Electronics</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -24,23 +24,23 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ">
             <li class="nav-item">
-              <a class="nav-link " href="./LivingRoom/living.html"
+              <a class="nav-link " href="./LivingRoom/living.php"
                 >Living Room</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./Kitchen/Kitchen.html">kitchen</a>
+              <a class="nav-link" href="./Kitchen/Kitchen.php">kitchen</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./Office/Office.html">Office</a>
+              <a class="nav-link" href="./Office/Office.php">Office</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./About and Contact/About.html"
+              <a class="nav-link" href="./About and Contact/About.php"
                 >About</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./About and Contact/Contact.html"
+              <a class="nav-link" href="./About and Contact/Contact.php"
                 >Contact</a
               >
             </li>
@@ -70,7 +70,7 @@
             <div class="card-body">
               <h5 class="KITtitle">Kitchen</h5>
               <p class="desc">Enjoy your cooking by our kitchen appliance</p>
-              <a href="./Kitchen/Kitchen.html" class="btn btn-outline-primary"
+              <a href="./Kitchen/Kitchen.php" class="btn btn-outline-primary"
                 >Visit Kitchen Room</a
               >
             </div>
@@ -87,7 +87,7 @@
             <div class="card-body">
               <h5 class="oFFTitle">Office</h5>
               <p class="OFFdesc">Explore by checking our office materials</p>
-              <a href="./Office/Office.html" class="btn btn-outline-secondary"
+              <a href="./Office/Office.php" class="btn btn-outline-secondary"
                 >Visit office</a
               >
             </div>
@@ -106,7 +106,7 @@
               <p class="LIVdesc">
                 Explore,visit and enjoy our living room product
               </p>
-              <a href="./LivingRoom/living.html" class="btn btn-outline-success"
+              <a href="./LivingRoom/living.php" class="btn btn-outline-success"
                 >Visit Living Room</a
               >
             </div>

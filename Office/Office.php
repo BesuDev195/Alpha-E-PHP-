@@ -12,7 +12,7 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="../index.html">Alpha Electronics</a>
+        <a class="navbar-brand" href="../index.php">Alpha Electronics</a>
         <button
           class="navbar-toggler"
           type="button"
@@ -24,24 +24,24 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item">
-              <a class="nav-link" href="../index.html">Home</a>
+              <a class="nav-link" href="../index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../LivingRoom/living.html"
+              <a class="nav-link" href="../LivingRoom/living.php"
                 >Living Room</a
               >
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="../Kitchen/Kitchen.html">Kitchen</a>
+              <a class="nav-link" href="../Kitchen/Kitchen.php">Kitchen</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../About and Contact/About.html"
+              <a class="nav-link" href="../About and Contact/About.php"
                 >About</a
               >
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../About and Contact/Contact.html"
+              <a class="nav-link" href="../About and Contact/Contact.php"
                 >Contact</a
               >
             </li>
