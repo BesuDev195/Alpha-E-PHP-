@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alpha Electronics</title>
+    <link rel="stylesheet" href="./bootstrap.min.css" />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="Icon" href="./Assets/Icon/fav.jpg">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    
+      <div class="container">
+        <a class="navbar-brand" href="./index.html">Alpha Electronics</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ">
+            <li class="nav-item">
+              <a class="nav-link " href="./LivingRoom/living.html"
+                >Living Room</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./Kitchen/Kitchen.html">kitchen</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./Office/Office.html">Office</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./About and Contact/About.html"
+                >About</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./About and Contact/Contact.html"
+                >Contact</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container text-center py-5">
+      <h1 class="display-4 description1">
+        Alpha is Your #1 Choice, because of our smartness
+      </h1>
+      <p class="lead">
+        Explore our Best products for your Kitchen, Office, and Living Room.
+      </p>
+    </div>
+
+    <div class="container">
+      <div class="row g-4">
+        <div class="col-md-4" id="kitchen">
+          <div class="card h-100">
+            <img
+              src="./Assets/Image/Home/kitchen.jpg"
+              class="card-img-top"
+              alt="Kitchen"
+            />
+            <div class="card-body">
+              <h5 class="KITtitle">Kitchen</h5>
+              <p class="desc">Enjoy your cooking by our kitchen appliance</p>
+              <a href="./Kitchen/Kitchen.html" class="btn btn-outline-primary"
+                >Visit Kitchen Room</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4" id="office">
+          <div class="card h-100">
+            <img
+              src="./Assets/Image/Home/office.jpg"
+              class="card-img-top"
+              alt="Office"
+            />
+            <div class="card-body">
+              <h5 class="oFFTitle">Office</h5>
+              <p class="OFFdesc">Explore by checking our office materials</p>
+              <a href="./Office/Office.html" class="btn btn-outline-secondary"
+                >Visit office</a
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4" id="living">
+          <div class="card h-100">
+            <img
+              src="./Assets/Image/Home/tv1.jpg"
+              class="card-img-top tv"
+              alt="Living Room"
+            />
+            <div class="card-body">
+              <h5 class="LIVtitle">Living Room</h5>
+              <p class="LIVdesc">
+                Explore,visit and enjoy our living room product
+              </p>
+              <a href="./LivingRoom/living.html" class="btn btn-outline-success"
+                >Visit Living Room</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+    <section>
+      <section class="py-5 bg-light" id="unique">
+        <div class="container text-center">
+          <h2 class="mb-4">What Makes Us Unique</h2>
+          <div class="row g-4">
+      
+          
+            <div class="col-md-4">
+              <img src="./Assets/Icon/deleivery car.jpg" alt="Fast Delivery" width="300" >
+              <h5>Fast Delivery</h5>
+              <p>We deliver your orders quickly and safely, we are known by our effecient work.</p>
+            </div>
+      
+            
+            <div class="col-md-4">
+              <img src="./Assets/Icon/discount1.jpg" alt="Discounts" width="190" class="mb-3">
+              <h5> Discounts</h5>
+              <p>we have amazing deals and discounts every day on top products.There is DISCOUNT always</p>
+            </div>
+      
+           
+            <div class="col-md-4">
+              <img src="./Assets/Icon/24-2.jpg" alt="Support" width="270" class="mb-3">
+              <h5>Excellent Support</h5>
+              <p>We are available for 24/7 to help You, Welcome!</p>
+            </div>
+      
+          </div>
+        </div>
+      </section>
+
+    </section>
+   
+   
+    <footer class="bg-dark text-muted py-3 mt-5">
+      <div class="container d-flex flex-column flex-md-row align-items-center justify-content-between">
+        
+       
+        <div class="d-flex align-items-center mb-2 mb-md-0">
+          <img src="./Assets/Icon/fav.jpg" alt="Logo" height="30" class="me-2">
+          <span class="name">Alpha Electronics</span>
+        </div>
+    
+        
+        <div class="text-center text-md-end">
+          <small class="name">&copy; 2025. All Rights Reserved.</small>
+        </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

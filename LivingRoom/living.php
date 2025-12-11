@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Living room</title>
+    <link rel="Icon" href="../Assets/Icon/fav.jpg">
+    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="./living.css" />
+    <link rel="stylesheet" href="../bootstrap.min.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="../index.html">Alpha Electronics</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="../index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " href="../Kitchen/Kitchen.html"
+                >Kitchen Room</a
+              >
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="../Office/Office.html">Office</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../About and Contact/About.html"
+                >About</a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../About and Contact/Contact.html"
+                >Contact</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <section class="buttonn">
+      <section class="first-section">
+        <div class="first">
+          <img src="../Assets/Image/living room/img1.webp" alt="" />
+          <p>
+            SAMSUNG 75-Inch QLED Q7F 4K Smart TV,
+          </p>
+          <p> 43,000 Birr</p>
+          <button>BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/img2.webp" alt="" />
+
+          <p>Toshiba 50 Inches 4K UHD HDR LED Fire Smart TV</p>
+          <br />
+          <p>35,000 Birr</p>
+          <button >BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/img4.jpeg" alt="" />
+          <p>
+            AMAZON 65-Inch Fire TV Omni QLED Series 4K UHD Smart TV
+          </p>
+
+          <p>43,000 Birr</p>
+          <button >BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/images 2.jpg" alt="" />
+          <p>
+            SONY 65-Inch BRAVIA XR X90K 4K Full Array LED Smart Google TV
+          </p>
+          <p>43,000 Birr</p>
+          <button>BUY NOW</button>
+        </div>
+      </section>
+      <br />
+      <br />
+
+      <section class="second-section">
+        <div class="first">
+          <img src="../Assets/Image/living room/img6.jpg" alt="" />
+          <p>
+            Premium Stereo Bookshelf Speaker
+          <p>15,000</p>
+          <button type="button">BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/img7.jpg" alt="" />
+          <p>
+            smart Wi-Fi Speaker with Voice Control
+          </p>
+          <p>13,000</p>
+          <button>BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/img8.jpg" alt="" />
+          <p>
+            Near-Field Studio Monitor Pair
+          </p>
+          <p>10,000</p>
+          <button>BUY NOW</button>
+        </div>
+      </section>
+      <br />
+      <br />
+
+      <section class="third-section">
+        <div class="first">
+          <img src="../Assets/Image/living room/img9.jpg" alt="" />
+          <p>
+            Sony PlayStation 5 (PS5) Standard Edition Gaming Console with
+            Controller
+          </p>
+          <p>45,000</p>
+          <button >BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/img10.jpg" alt="" />
+          <p>
+            smart Wi-Fi Speaker with Voice Control
+          </p>
+          <p>13,000</p>
+          <button>BUY NOW</button>
+        </div>
+        <div class="first">
+          <img src="../Assets/Image/living room/img11.jpg" alt="" />
+          <p>
+            Premium Tower Air Purifier with HEPA Filter
+          </p>
+          <p>18,000</p>
+          <button >BUY NOW</button>
+        </div>
+        <div class="first">
+          <img
+            src="../Assets/Image/living room/Adobe Express - file.jpg"
+            alt=""
+          />
+          <p>
+            ompact 2-in-1 Humidifier and Air Purifier
+          </p>
+          <p>13,000</p>
+          <button type="button">BUY NOW</button>
+        </div>
+      </section>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
